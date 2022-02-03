@@ -1,0 +1,9 @@
+React Notes:
+The return can't be empty
+Components has to be closed off in a <div>
+Components variables has to be capitalized
+
+make a button that toggles a color
+
+https://maggieappleton.com/reactpotato
+
